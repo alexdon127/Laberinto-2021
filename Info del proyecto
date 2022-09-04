@@ -1,0 +1,9 @@
+En este proyecto realmente tampoco tuve muchas dificultades en el tema de codigo, lo unico que se me complicó un poco al pricipio fue:
+
+Hacer el temporizador, que se parase al poner el menú pausa y que cuando acabase se terminase el juego, 
+que al final lo hice de forma bastante sencilla multiplicando el tiempo por una escala de tiempo, que en el editor la puse a -1 y si ponia el pausa, ponerla a 0 y ya.
+
+Y la otra fue la recolección de diamantes, dado que al principio no me detectaba la colision con el diamante que tocaba o me los recolectaba varias veces, 
+lo que opté por hacer es directamente darle a cada uno un "puesto" predeterminado y así, ya funcionaba perfectamnete y que encima así si quisiera podría darle efectos, sonidos, etc personalizados por cada uno.
+
+La verdad que no podría especificar una parte del codigo de la que me sienta mas orgulloso, dado que me siento bastante contento con todo el proyecto.
